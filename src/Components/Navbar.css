@@ -1,0 +1,23 @@
+img{
+    width: 10%;
+    object-fit: contain;
+
+}
+.navbar{
+    display: flex;
+ justify-content: space-around;
+ box-shadow: 1px 5px 5px rgb(218, 209, 209);
+}
+.nav-menu {
+ display: flex;
+}
+.nav-menu li {
+    padding: 20px;
+    list-style: none;
+    
+   }
+
+   /* .card {
+    border: 1px solid black;
+  } */
+  
